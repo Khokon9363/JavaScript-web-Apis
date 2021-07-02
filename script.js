@@ -27,6 +27,10 @@ const topics = [
     {
         url: 'Vibrate/index.html',
         name: 'Vibrate'
+    },
+    {
+        url: 'Web Speech/index.html',
+        name: 'Web Speech'
     }
 ]
 
