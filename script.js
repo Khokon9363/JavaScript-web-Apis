@@ -25,8 +25,8 @@ const topics = [
         name: 'Picture In Picture'
     },
     {
-        url: 'Push/index.html',
-        name: 'Push'
+        url: 'Vibrate/index.html',
+        name: 'Vibrate'
     }
 ]
 
