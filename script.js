@@ -7,6 +7,10 @@ const topics = [
     {
         url: 'Battery/index.html',
         name: 'Battery'
+    },
+    {
+        url: 'Broadcast Channel/index.html',
+        name: 'Broadcast Channel'
     }
 ]
 
