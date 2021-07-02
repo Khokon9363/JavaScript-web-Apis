@@ -11,6 +11,22 @@ const topics = [
     {
         url: 'Broadcast Channel/index.html',
         name: 'Broadcast Channel'
+    },
+    {
+        url: 'Geo Location/index.html',
+        name: 'Geo Location'
+    },
+    {
+        url: 'History/index.html',
+        name: 'History'
+    },
+    {
+        url: 'Picture In Picture/index.html',
+        name: 'Picture In Picture'
+    },
+    {
+        url: 'Push/index.html',
+        name: 'Push'
     }
 ]
 
